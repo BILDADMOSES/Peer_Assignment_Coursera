@@ -6,14 +6,14 @@ Once you have completed the assignment, you should submit an image file showing 
 
 This graph and explanation will be assessed by your peers, who will check that it has the following characteristics:
 
-i)Labels on the x and y axes stating what the axes represent (e.g. happiness, average income, etc.)
+a). Labels on the x and y axes stating what the axes represent (e.g. happiness, average income, etc.)
 
-ii)One or more labelled 'data points of interest'
+b). One or more labelled 'data points of interest'
 
-iii)An explanation of the following:
+c). An explanation of the following:
 
-iv)why you chose to plot those particular columns in the data
+i). why you chose to plot those particular columns in the data
 
-v)how you sorted or filtered the data
+ii). how you sorted or filtered the data
 
-vi)what makes the labelled points interesting. 
+iii). what makes the labelled points interesting. 
